@@ -1,0 +1,17 @@
+{
+    "abbreviation": "IST",
+    "client_ip": "49.205.77.190",
+    "datetime": "2021-05-18T16:38:21.513368+05:30",
+    "day_of_week": 6,
+    "day_of_year": 135,
+    "dst": false,
+    "dst_from": null,
+    "dst_offset": 0,
+    "dst_until": null,
+    "raw_offset": 19800,
+    "timezone": "Asia/Kolkata",
+    "unixtime": 1621076901,
+    "utc_datetime": "2021-05-15T04:08:21.513368+00:00",
+    "utc_offset": "+05:30",
+    "week_number": 19
+}
